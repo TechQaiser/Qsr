@@ -7,7 +7,11 @@ FACEBOOK ACCOUNT CLONER SUCESSFULL
    🔰 THIS REPOSITORY IS ONLY PAID 🔰 
 
   
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-JAMES404-dimgray?style=flat-square&logo=github)](https://github.com/TechQaiser)<br> [![Facebook](https://img.shields.io/badge/Facebook-+JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/zahidjan.zahidjan.14606)<br>
+## MY SOCIAL MEDIA : <br>
+<a href="https://youtu.be/3Adx9Y-y2qs"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a>
+<a href="Facebook.com/zahidjan.zahidjan.14606" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://wa.me/?text=HI,%20RESPECTED.%20SIR..QAISER"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/whatsapp.png" alt="alt text" width="25" height="25"></a> 
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
+  
 
 
 
