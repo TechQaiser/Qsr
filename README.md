@@ -35,6 +35,10 @@ $ pkg install python
 $ pkg install python2
 $ pip install requests
 $ pip install mechanize
+$ pip install mechanize
+
+pkg install nodejs
+pkg install nodejs-lts
 $ pip install lolcat
 $ pip install BeautifulSoup
 $ pkg install git
