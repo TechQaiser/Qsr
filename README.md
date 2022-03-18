@@ -7,11 +7,11 @@ FACEBOOK ACCOUNT CLONER SUCESSFULL
    🔰 THIS REPOSITORY IS ONLY PAID 🔰 
 
   
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-JAMES404-dimgray?style=flat-square&logo=github)](https://github.com/TechQaiser)<br> [![Facebook](https://img.shields.io/badge/Facebook-+JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Qaiser Abbas)<br>
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-JAMES404-dimgray?style=flat-square&logo=github)](https://github.com/TechQaiser)<br> [![Facebook](https://img.shields.io/badge/Facebook-+JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/zahidjan.zahidjan.14606)<br>
 
 
 
-<h1 align="center"> TECH QAISER ⚑ /h1>
+<h1 align="center"> TECH QAISER ⚑ </h1>
 
 <h2 align="center"> CLONING PAID TOOL </h2>
 
@@ -44,7 +44,7 @@ $ ./Qaiser
 NOTE ☒ : I M NOT RESPONSIBLE FOR AMY MISS USE 😼
  
 
-
+THANKS FOR USING
 
 
 
