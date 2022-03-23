@@ -1,2 +1,2 @@
-from Qaiser import qsbuy
+from Qsr import qsbuy
 qsbuy()
