@@ -1,2 +1,2 @@
-from Qsr import caseher
-caseher()
+from Qsr import qsbuy
+qsbuy()
