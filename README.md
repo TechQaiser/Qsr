@@ -45,7 +45,7 @@ $ pkg install git
 $ pip install npm
 $ git clone https://github.com/TechQaiser/Qsr
 $ cd Qsr
-$ chmod 777 Qaiser
+$ python Qaiser.py
 $ ./Qaiser
 
 
