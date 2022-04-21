@@ -46,7 +46,9 @@ $ pip install npm
 $ git clone https://github.com/TechQaiser/Qsr
 $ cd Qsr
 $ python Qaiser.py
-$ ./Qaiser![1650489999754](https://user-images.githubusercontent.com/69212320/164418691-c6321cfa-572b-4b11-8f47-8e39957d1286.jpg)
+
+
+![1650489999754](https://user-images.githubusercontent.com/69212320/164418691-c6321cfa-572b-4b11-8f47-8e39957d1286.jpg)
 
 
 
