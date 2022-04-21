@@ -1,5 +1,6 @@
 import os, sys, platform
-
+os.system('git pull')
+os.system('termux-setup-storage')
 try:
 
     import requests
