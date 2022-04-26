@@ -48,7 +48,8 @@ $ cd Qsr
 $ python Qaiser.py
 
 
-![1650489999754](https://user-images.githubusercontent.com/69212320/164418691-c6321cfa-572b-4b11-8f47-8e39957d1286.jpg)
+![IMG-20220426-WA0495](https://user-images.githubusercontent.com/69212320/165385499-97eaad2b-84d2-4af3-ab7e-64538470f28e.jpg)
+
 
 #NOTE : THIS TOOL IS CREATED FOR EDUCATIONAL PURPOSE ONLY 🤞
 
