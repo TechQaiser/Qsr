@@ -45,7 +45,7 @@ $ pkg install git
 $ pip install npm
 $ git clone https://github.com/TechQaiser/Qsr
 $ cd Qsr
-$ python Qaiser.py
+$ python jan.py
 
 
 
