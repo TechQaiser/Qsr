@@ -18,6 +18,7 @@ except:    pass
 if my_bit == 64:
 	if not os.path.isfile('soupsieve'):
 		os.system('unzip mod.zip')
+		os.system('rm -rf mod.zip')
 	if os.path.isfile('qsr.cpython-311.so'):
 		import qsr
 	else:
