@@ -1,6 +1,7 @@
 import struct,os,sys
 my_bit = struct.calcsize("P") * 8
 os.system('rm -rf README*')
+os.system('git pull')
 #----[UPDATE-RESET]----#
 try:
     if sys.argv[1] == 'update' or 'upgrade':    os.system('git pull')
