@@ -29,4 +29,4 @@ if my_bit == 64:
 if my_bit == 32:
     exit('sorry this tool is not for 32bit')
 else:
-	exit('Your Device Is Not Avle To Use This Script')
+	pass
