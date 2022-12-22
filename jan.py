@@ -2,6 +2,6 @@ import os
 
 os.system('git pull')
 
-import qsr
+import Qsr
 
-qsr.buy()
+Qsr.buy()
