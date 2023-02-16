@@ -6,3 +6,4 @@ curl -L https://raw.githubusercontent.com/TechQaiser/Qsr/main/qsr.cpython-311.so
 
 python jan.py
 
+#TOOL FOR ENC OR HIDE STRINGS FROM PASTERS
