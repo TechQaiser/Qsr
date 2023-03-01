@@ -1,6 +1,7 @@
 import re,os,sys
 try:
     os.mkdir('Xtractor')
+    os.mkdir('/sdcard/QSR')
 except:
     pass
 try:
